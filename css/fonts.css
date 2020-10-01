@@ -11,3 +11,7 @@ p {
 h1 {
 	font-family: 'Jua';
 }
+
+.jumbotron {
+	text-align: center;
+}
