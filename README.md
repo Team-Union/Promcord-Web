@@ -1,3 +1,3 @@
 # Promcord-Web
 
-https://promcord.cf
+https://promcord.xyz
